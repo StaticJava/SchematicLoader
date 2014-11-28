@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SchematicLoader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SchematicLoader_jar</output-path>
+    <root id="archive" name="SchematicLoader.jar">
+      <element id="module-output" name="SchematicLoader" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.7.9-R0.3-SNAPSHOT/spigot-api-1.7.9-R0.3-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/onarandombox/multiversecore/Multiverse-Core/2.5/Multiverse-Core-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/de/schlichtherle/truezip/6.8.3/truezip-6.8.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/rhino/js/1.7R2/js-1.7R2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sk89q/worldedit/5.7-SNAPSHOT/worldedit-5.7-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

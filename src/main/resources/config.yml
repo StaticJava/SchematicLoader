@@ -1,0 +1,20 @@
+dir: /plugins/WorldEdit/schematics
+
+world:
+  name: lobby
+  environment: NORMAL
+  type: FLAT
+
+schematics:
+  spawn1: exampleschematic1.schematic
+  spawn2: exampleschematic2.schematic
+
+lobbySpawns:
+  spawn1:
+  - x:0
+  - y:100
+  - z:0
+  spawn2:
+  - x:20
+  - y:100
+  - z:-10

@@ -1,0 +1,5 @@
+name: SchematicLoader
+main: me.staticjava.SchematicLoader
+version: 1.0
+
+depend: [WorldEdit, Multiverse-Core]
